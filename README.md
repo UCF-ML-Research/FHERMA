@@ -64,3 +64,7 @@ The code is organized as follows:
   - conv3x8-full-90: model with one convolutional layer with 3x3 kernel size and 8 filters, followed by a fully connected layer.
   - conv3-16-full-100: model with one convolutional layer with 3x3 kernel size and 16 filters, followed by a fully connected layer.
 - `lattigo/internal/solution/solution.go` contains the implementation of HE-based convolutional layers, fully connected layers, and activation functions.
+
+## Performance
+- OpenFHE: 93% accuracy with 1.27s latency for one image.
+- Lattigo: 92% accuracy with 2.15s latency for one image.
