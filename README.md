@@ -20,9 +20,9 @@ git clone https://github.com/UCF-lab/FHE-CIFAR10.git
 cd FHERMA
 ```
 
-- Install OpenFHE following the instructions in the [OpenFHE repository](https://github.com/openfheorg/openfhe-development)
+- Install OpenFHE following the instructions in the [OpenFHE repository](https://github.com/openfheorg/openfhe-development).
 
-- Install Lattigo following the instructions in the [Lattigo repository](https://github.com/tuneinsight/lattigo)
+- Install Lattigo following the instructions in the [Lattigo repository](https://github.com/tuneinsight/lattigo).
 
 
 ## OpenFHE
