@@ -7,12 +7,14 @@ The goal of the challenge is to develop and implement a machine learning model c
 The code is organized and maintained by the member Jiaqi Xue of Dr.Qian Lou's Lab at the University of Central Florida (UCF).
 
 ## Competition Achievements
-The competition featured two tracks, OpenFHE and Lattigo, each with two awards: one for top accuracy and another for top efficiency with accuracy over 85%. Our team achieved high rankings in both tracks. For more details, visit the official website: [CIFAR Challenge Rankings](https://fherma.io/challenges/652bf663485c878710fd0209/leaderboard).
+The competition featured two tracks, OpenFHE and Lattigo, each with two awards: one for top accuracy and another for top efficiency with accuracy over 85%. Our team achieved high rankings in both tracks:
 
 - **OpenFHE Accuracy Award**: Tied-First Place
 - **Lattigo Accuracy Award**: Tied-First Place
 - **OpenFHE Efficiency Award**: Second Place
 - **Lattigo Efficiency Award**: Third Place
+
+For more details, visit the official website: [CIFAR Challenge Rankings](https://fherma.io/challenges/652bf663485c878710fd0209/leaderboard).
 
 ## Installation
 ```bash
