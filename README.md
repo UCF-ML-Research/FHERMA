@@ -53,8 +53,8 @@ The code is organized as follows:
 - `openfhe/notebooks/` contains the Jupyter notebooks used to generate the weights from PT models to binary files can be used in OpenFHE.
 
 - `openfhe/cifar10.cpp/` contains the implementation of HE-based convolutional layers, fully connected layers, and activation functions.
-  - HE-based convolutional layers is implemented following "[Encrypted Image Classification with Low Memory Footprint Using Fully Homomorphic Encryption](https://www.worldscientific.com/doi/10.1142/S0129065724500254)"
-  - HE-based fully connected layers is implemented following "[GAZELLE: A Low Latency Framework for Secure Neural Network Inference](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-juvekar.pdf)"
+  - HE-based convolutional layers is implemented following "[Encrypted Image Classification with Low Memory Footprint Using Fully Homomorphic Encryption](https://www.worldscientific.com/doi/10.1142/S0129065724500254)".
+  - HE-based fully connected layers is implemented following "[GAZELLE: A Low Latency Framework for Secure Neural Network Inference](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-juvekar.pdf)".
   - HE-based activation functions we choose to Square activation function.
 
 ## Lattigo
